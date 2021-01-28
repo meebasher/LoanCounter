@@ -1,0 +1,9 @@
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\bin\Debug\netstandard2.0\Loans.Model.deps.json
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\bin\Debug\netstandard2.0\Loans.Model.dll
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\bin\Debug\netstandard2.0\Loans.Model.pdb
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loan.Model.csprojAssemblyReference.cache
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loan.Model.AssemblyInfoInputs.cache
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loan.Model.AssemblyInfo.cs
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loan.Model.csproj.CoreCompileInputs.cache
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loans.Model.dll
+D:\Programming projects\LoanMVP\LoanMVP\Loan.Model\obj\Debug\netstandard2.0\Loans.Model.pdb
